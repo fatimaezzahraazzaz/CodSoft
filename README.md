@@ -26,7 +26,7 @@ The first task of my internship was to create a **To-Do List Application** using
    ```bash
    cd CODSOFT/task1_ToDo_Liste
    ```
-4. Run the application:
+3. Run the application:
    ```bash
    python task1_ToDo_Liste.py
    ```
@@ -35,3 +35,30 @@ The first task of my internship was to create a **To-Do List Application** using
 - **Tkinter (for GUI)**
 ### Screenshots
 ![image](https://github.com/user-attachments/assets/96b87eae-977f-46cb-a730-661a01d4acee)
+## Password Generator
+
+This project is a simple password generator written in Python. It generates random passwords based on the number of characters provided by the user. The generator can be enhanced to include lowercase letters, uppercase letters, digits, and special characters for more secure passwords.
+
+### Features
+
+- Generates random passwords of a specified length.
+- Includes lowercase letters.
+- Can be extended to include uppercase letters, digits, and special characters.
+
+### How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.comfatimaezzahraazzaz/git clone https://github.com/fatimaezzahraazzaz/CODSOFT.git
+   ```
+2. Run the application:
+   ```bash
+   python task2_password_gene.py
+   ```
+### Technologies Used
+- **Python**
+### Exemple:
+![image](https://github.com/user-attachments/assets/c80675c3-acb4-4124-a215-4f44e5835929)
+
+
+
