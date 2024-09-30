@@ -24,11 +24,11 @@ The first task of my internship was to create a **To-Do List Application** using
    ```
 2. Navigate to the Task 1 folder:
    ```bash
-   cd CODSOFT/
+   cd CODSOFT/task1_ToDo_Liste
    ```
 4. Run the application:
    ```bash
-   python to_do_list.py
+   python task1_ToDo_Liste.py
    ```
 ### Technologies Used
 - **Python**
