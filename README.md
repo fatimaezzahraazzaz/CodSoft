@@ -35,7 +35,7 @@ The first task of my internship was to create a **To-Do List Application** using
 - **Tkinter (for GUI)**
 ### Screenshots
 ![image](https://github.com/user-attachments/assets/96b87eae-977f-46cb-a730-661a01d4acee)
-## Password Generator
+##  Task 2: Password Generator
 
 This project is a simple password generator written in Python. It generates random passwords based on the number of characters provided by the user. The generator can be enhanced to include lowercase letters, uppercase letters, digits, and special characters for more secure passwords.
 
@@ -59,6 +59,32 @@ This project is a simple password generator written in Python. It generates rand
 - **Python**
 ### Exemple:
 ![image](https://github.com/user-attachments/assets/c80675c3-acb4-4124-a215-4f44e5835929)
+## Task 3: Contact Book Application
+### Project Overview
+The third task of my internship was to create a Contact Book Application using Python and Tkinter. This application allows users to manage their contacts efficiently.
+
+### Features
+- **Add Contact:** Users can enter contact details such as name, phone number, and email, which are added to the contact list.
+- **Update Contact:** Users can modify existing contact details.
+- **Delete Contact:** Users can remove contacts from the list.
+- **Search Contacts:** Users can search for a specific contact by name.
+- **Display Contacts:** The application displays all contacts in a formatted list.
+
+### How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.comfatimaezzahraazzaz/git clone https://github.com/fatimaezzahraazzaz/CODSOFT.git
+   ```
+2. Run the application:
+   ```bash
+   pythontask3_Contact_Book.py
+   ```
+### Technologies Used
+- **Python**
+- **Tkinter (for GUI)**
+### Screenshots
+![image](https://github.com/user-attachments/assets/b13a616c-672c-4aea-a3c3-d36d59ebf2c3)
+
 
 
 
